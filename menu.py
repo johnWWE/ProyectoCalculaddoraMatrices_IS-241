@@ -84,6 +84,6 @@ while True:
             print("\n¡¡Digite Opción correcta!!")
             continue
     else:
-        if Opcion=="0" or Opcion== "salir" or Opcion == "OPCION":
+        if Opcion=="0" or Opcion== "salir" or Opcion == "SALIR":
             break
 print("Fin del programa")
