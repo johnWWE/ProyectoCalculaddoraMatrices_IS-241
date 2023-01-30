@@ -38,4 +38,4 @@ def matrizTranspuesta():
     for i in matrizTranspuesta:
         print(i)
 matrizTranspuesta()
-#sdsd
+#sdsdcddd
