@@ -1,5 +1,5 @@
-operaciones: defininda con funciones
-producto       # ya ta
+operaciones definindas con funciones
+producto       # xd
 suma, resta    # erick
 inversa        #alex
 transpuesta    # jhon
